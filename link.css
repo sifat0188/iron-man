@@ -5,10 +5,11 @@ body {
     font-size: larger;
 
     background-color: aqua;
+    margin: 0%;
 }
 
 h1 {
-
+    color: red;
     font-size: 60px;
 }
 
@@ -18,7 +19,7 @@ h2 {
 }
 
 h4 {
-
+    color: red;
     font-size: 40px;
 }
 
@@ -47,4 +48,10 @@ section {
     color: gold;
     font-weight: 300;
 
+}
+
+.top {
+
+    background-image: url(img/ironman_lob_mas_hlf_02_0.jpg);
+    background-repeat: no-repeat;
 }
