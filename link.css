@@ -1,0 +1,50 @@
+body {
+
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Fascinate', cursive;
+    font-size: larger;
+
+    background-color: aqua;
+}
+
+h1 {
+
+    font-size: 60px;
+}
+
+h2 {
+    font-size: 50px;
+    color: red;
+}
+
+h4 {
+
+    font-size: 40px;
+}
+
+section {
+    display: flex;
+}
+
+.dd {
+    width: 50%;
+}
+
+.dd img {
+    width: 100%;
+}
+
+.dd {
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.ss {
+    text-decoration: none;
+    background-image: linear-gradient(black, red);
+    padding: 8px 20px;
+    border-radius: 5px;
+    color: gold;
+    font-weight: 300;
+
+}
