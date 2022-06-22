@@ -26,6 +26,7 @@ h4 {
 .fx {
     display: flex;
     margin-bottom: 110px;
+    border-radius: 15px;
 }
 
 .dd {
@@ -65,8 +66,20 @@ h4 {
     box-shadow: 10px 10px 80px rgb(252, 2, 2);
     background-image: url(img/iron\ man3.jpg);
     background-image: no-repeat;
+    border-radius: 10px;
+    border-left: 10px solid;
+    border-image: linear-gradient(red, black);
+    border-image-slice: 1;
+
 }
 
 .thanos {
     background-image: url(img/thanos.jpg);
+    border-left: 10px solid;
+    border-image: linear-gradient(rgb(7, 253, 7), rgb(255, 6, 255));
+    border-image-slice: 1;
+}
+
+footer p {
+    text-align: center;
 }
