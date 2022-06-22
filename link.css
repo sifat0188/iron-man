@@ -23,7 +23,7 @@ h4 {
     font-size: 40px;
 }
 
-section {
+.fx {
     display: flex;
     margin-bottom: 110px;
 }
@@ -53,6 +53,20 @@ section {
 
 .top {
 
-    background-image: url(img/ironman_lob_mas_hlf_02_0.jpg);
+    background-image: url(img/iron\ man3.jpg);
     background-repeat: no-repeat;
+}
+
+.hf {
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 10px;
+    box-shadow: 10px 10px 80px rgb(252, 2, 2);
+    background-image: url(img/iron\ man3.jpg);
+    background-image: no-repeat;
+}
+
+.thanos {
+    background-image: url(img/thanos.jpg);
 }
